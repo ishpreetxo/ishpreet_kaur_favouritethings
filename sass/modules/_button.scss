@@ -1,0 +1,50 @@
+#buttonContainer {
+    display: flex;
+    flex-direction: row;
+    // margin-top: 20px;
+    // margin-left: 470px;
+    cursor: pointer;      
+}
+
+#container {
+    display: flex;
+    // position: absolute;
+    justify-content: center;
+}
+
+#btn1,
+#btn2,
+#btn3 {
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1.3em 1.4em;
+    float: center;
+    // border: 0.20em solid rgb(43, 48, 67);
+    // text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 09px;
+    border-radius: 0.7em;
+    font-size: 17px;
+    font-weight: 500;
+    color: rgb(105, 66, 3);
+    background-color: rgb(231, 150, 20);
+    transition: all 0.15s;
+}
+
+#btn1:hover {
+    color: rgb(249, 245, 204);
+    background-color: rgb(105, 66, 3);
+    font-style: italic;
+}
+
+#btn2:hover {
+    color: rgb(249, 245, 204);
+    background-color: rgb(105, 66, 3);
+    font-style: italic;
+}
+
+#btn3:hover {
+    color: rgb(249, 245, 204);
+    background-color: rgb(105, 66, 3);
+    font-style: italic;
+}
