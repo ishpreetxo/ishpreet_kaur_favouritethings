@@ -1,0 +1,18 @@
+    .hidden {
+        justify-content: center;
+        text-transform: uppercase;
+        background-color: white;
+        display: grid;
+        color: rgb(11, 10, 10);
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        text-decoration: none;
+        font-size: 32px;
+    }
+    
+    .hidden:hover {
+        background-color: rgb(15, 19, 78);
+        color: rgb(255, 255, 255);
+        cursor: pointer;
+    }

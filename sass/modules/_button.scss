@@ -1,0 +1,44 @@
+#buttonContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 470px;
+    cursor: pointer;
+}
+
+#container {
+    display: flex;
+    position: absolute;
+    justify-content: center;
+}
+
+#btn1,
+#btn2,
+#btn3 {
+    padding: 1.46em 1.6em;
+    float: center;
+    border: 0.20em solid rgb(43, 48, 67);
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-left: 09px;
+    border-radius: 0.12em;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: #FFFFFF;
+    transition: all 0.15s;
+}
+
+#btn1:hover {
+    color: rgb(232, 232, 232);
+    background-color: rgba(24, 20, 20, 0.35);
+}
+
+#btn2:hover {
+    color: rgb(232, 232, 232);
+    background-color: rgba(24, 20, 20, 0.35);
+}
+
+#btn3:hover {
+    color: rgb(232, 232, 232);
+    background-color: rgba(24, 20, 20, 0.35);
+}

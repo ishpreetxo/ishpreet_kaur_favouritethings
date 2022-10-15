@@ -1,0 +1,20 @@
+{
+    "fvrtthing1": {
+        "title": "Painting",
+        "banner": "Painting is the silence of thought and the music of sight",
+        "brief": "Painting is that one thing which I would never get tired of doing! For me, it is like an emotion. I love to play with colours and put my ideas on a piece of paper. Mostly, I like to make sceneries and landscapes. I consider painting as a stress-relief activity so I have fun to draw & paint when I feel low.",
+        "photo": "painting.jpg"
+    },
+    "fvrtthing2": {
+        "title": "Dancing",
+        "banner": "“ Dancing is like dreaming with your feet!”",
+        "brief": "Dancing is one of my topmost hobbies. I believe that it is the purest form of art. I developed my interest in dance when I was in high school. I learned different forms of dance and I always used to perform in my school functions. I like Hip-Hop a little too much! I don't even need a reason to dance, it just lifts up my mood in seconds!",
+        "photo": "dancing.jpg"
+    },
+    "fvrtthing3": {
+        "title": "Badminton",
+        "banner": "Play like a Champion.",
+        "brief": "Badminton is my most favourite sport. It is played using racquets to hit a shuttlecock across a net. In my childhood, I used to play badminton daily with my friends and cousins. I enjoy playing this game a lot and I must say I'm a pretty good player.",
+        "photo": "badminton.jpg"
+    }
+}
