@@ -16,7 +16,8 @@
         color: rgb(105, 66, 3);
         // text-transform: uppercase;
     }
-    .extraCon h3 {           // painting tagline
+    .extraCon h3 {
+        // painting tagline
         font-family: 'Ubuntu', sans-serif;
         font-size: 24px;
         // font-weight: bold;
@@ -37,35 +38,32 @@
         border-radius: 1em;
         // max-height: 450px;
         margin-bottom: 10px;
-        margin-top: 10px;          
+        margin-top: 10px;
     }
-    .mainArea h2 {              // painting
+    .mainArea h2 {
+        // painting
         font-family: 'Ubuntu', sans-serif;
-        font-size: 30px;       
+        font-size: 30px;
         margin-bottom: 10px;
         text-transform: uppercase;
         font-weight: 600;
-        color: rgb(105, 66, 3);          
+        color: rgb(105, 66, 3);
         // border: 1px solid rgb(27, 25, 25);
         justify-content: center;
     }
-    // .mainArea h2:hover {
-    //     color: rgb(17, 15, 15);
-    //     background-color: rgb(217, 217, 217);
-    //     cursor: pointer;
-    // }
-    .mainArea p {           // painting main text
+    .mainArea p {
+        // painting main text
         display: flex;
         font-family: 'Ubuntu', sans-serif;
         font-size: 20px;
         color: rgb(231, 150, 20);
         padding-left: 400px;
         padding-right: 400px;
-        padding-top: 15px;    
-        padding-bottom: 15px;       
+        padding-top: 15px;
+        padding-bottom: 15px;
         // border: 1px solid rgb(27, 25, 25);
-        justify-content: center; 
-        font-style: italic;            
+        justify-content: center;
+        font-style: italic;
     }
     .outerBox {
         border: 5px solid rgb(27, 25, 25);
@@ -75,27 +73,20 @@
 // for mobile device
 @media all and (max-width:700px) {
     #container {
-        display: flex;        
-        justify-content: center;     
+        display: flex;
+        justify-content: center;
     }
     #btn1,
     #btn2,
     #btn3 {
-        // display: block;
-        // margin: 2em auto;
         padding: 1.3em 1.4em;
         float: center;
-        // border: 0.20em solid #74f3a7;
         margin-top: 10px;
         margin-bottom: 10px;
-        // margin-left: 09px;
-        // margin: 10px;
         border-radius: 0.7em;
         box-sizing: border-box;
         font-family: 'Ubuntu', sans-serif;
-        // font-weight: 500;
         color: rgb(105, 66, 3);
-        // text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35);
         background-color: rgb(231, 150, 20);
         transition: all 0.15s;
     }
@@ -112,15 +103,15 @@
         border-radius: 1em;
         // max-height: 450px;
         margin-bottom: 10px;
-        margin-top: 10px;  
+        margin-top: 10px;
     }
-    .mainArea h2 {       
+    .mainArea h2 {
         font-family: 'Ubuntu', sans-serif;
-        font-size: 30px;       
+        font-size: 30px;
         margin-bottom: 10px;
         text-transform: uppercase;
         font-weight: 600;
-        color: rgb(105, 66, 3);          
+        color: rgb(105, 66, 3);
         // border: 1px solid rgb(27, 25, 25);
         justify-content: center;
     }
@@ -129,7 +120,7 @@
     //     background-color: rgb(112, 30, 167);
     //     cursor: pointer;
     // }
-    .extraCon h3 {          
+    .extraCon h3 {
         font-family: 'Ubuntu', sans-serif;
         font-size: 24px;
         // font-weight: bold;
@@ -146,13 +137,13 @@
         color: rgb(231, 150, 20);
         padding-left: 15px;
         padding-right: 15px;
-        padding-top: 15px;    
-        padding-bottom: 15px;       
+        padding-top: 15px;
+        padding-bottom: 15px;
         // border: 1px solid rgb(27, 25, 25);
-        justify-content: center; 
-        font-style: italic;        
+        justify-content: center;
+        font-style: italic;
     }
-    .temp {        
+    .temp {
         font-family: 'Ubuntu', sans-serif;
         font-size: 1.4em;
         margin-top: 10px;
